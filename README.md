@@ -1,4 +1,4 @@
-# Electronics Engineering Portfolio
+# Electronics Engineering Studies
 
 This repository documents my self-directed study in electronics engineering,
 including circuit design, embedded systems, PCB layout, and system integration.
